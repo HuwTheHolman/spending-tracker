@@ -30,3 +30,7 @@ spending-tracker/
 The frontend and backend are fully decoupled. As long as the API contract (data in/out) remains consistent, the frontend behaves identically regardless of what powers the backend. This is intentional — it allows the backend to be swapped out for a different technology stack without touching the frontend, which is useful for portfolio purposes.
 
 When the backend is replaced, it will be split into its own repository. For now, both live here for development simplicity.
+
+## Generative AI Usage
+
+With this project being for portfolio usage, there will be minimal usage of AI for code generation other than bug fixes and improvement suggestions. Some supporting documents will be generated using AI, such as most of this readme.
