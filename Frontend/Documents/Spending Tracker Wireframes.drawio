@@ -1,0 +1,190 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:148.0) Gecko/20100101 Firefox/148.0" version="29.6.6">
+  <diagram name="Page-1" id="0yOLD0avrvO_mVwzqyVn">
+    <mxGraphModel dx="1426" dy="798" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="zFAYg4KAT2261BxmjZ0o-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
+          <mxGeometry height="210" width="350" x="80" y="70" as="geometry" />
+        </mxCell>
+        <mxCell id="zFAYg4KAT2261BxmjZ0o-2" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Import CSV File Page Initial" vertex="1">
+          <mxGeometry height="40" width="120" x="190" y="20" as="geometry" />
+        </mxCell>
+        <mxCell id="zFAYg4KAT2261BxmjZ0o-3" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" value="Nav Bar" vertex="1">
+          <mxGeometry height="20" width="350" x="80" y="70" as="geometry" />
+        </mxCell>
+        <mxCell id="zFAYg4KAT2261BxmjZ0o-5" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="Import history as a list (broken down by item)" vertex="1">
+          <mxGeometry height="160" width="130" x="90" y="100" as="geometry" />
+        </mxCell>
+        <mxCell id="zFAYg4KAT2261BxmjZ0o-6" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" value="List item" vertex="1">
+          <mxGeometry height="20" width="130" x="90" y="100" as="geometry" />
+        </mxCell>
+        <mxCell id="zFAYg4KAT2261BxmjZ0o-7" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" value="Name | Amount | Time" vertex="1">
+          <mxGeometry height="20" width="130" x="90" y="120" as="geometry" />
+        </mxCell>
+        <mxCell id="zFAYg4KAT2261BxmjZ0o-8" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" value="" vertex="1">
+          <mxGeometry height="20" width="130" x="90" y="140" as="geometry" />
+        </mxCell>
+        <mxCell id="zFAYg4KAT2261BxmjZ0o-9" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" value="Import CSV Button" vertex="1">
+          <mxGeometry height="20" width="120" x="230" y="110" as="geometry" />
+        </mxCell>
+        <mxCell id="zFAYg4KAT2261BxmjZ0o-10" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" value="Import PDF Button" vertex="1">
+          <mxGeometry height="20" width="120" x="230" y="140" as="geometry" />
+        </mxCell>
+        <mxCell id="zFAYg4KAT2261BxmjZ0o-11" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
+          <mxGeometry height="210" width="350" x="470" y="70" as="geometry" />
+        </mxCell>
+        <mxCell id="zFAYg4KAT2261BxmjZ0o-12" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Import CSV File Page After button + file upload" vertex="1">
+          <mxGeometry height="40" width="120" x="580" y="20" as="geometry" />
+        </mxCell>
+        <mxCell id="zFAYg4KAT2261BxmjZ0o-13" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" value="Nav Bar" vertex="1">
+          <mxGeometry height="20" width="350" x="470" y="70" as="geometry" />
+        </mxCell>
+        <mxCell id="zFAYg4KAT2261BxmjZ0o-14" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="Import history as a list (broken down by item)" vertex="1">
+          <mxGeometry height="160" width="130" x="480" y="100" as="geometry" />
+        </mxCell>
+        <mxCell id="zFAYg4KAT2261BxmjZ0o-15" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" value="List item" vertex="1">
+          <mxGeometry height="20" width="130" x="480" y="100" as="geometry" />
+        </mxCell>
+        <mxCell id="zFAYg4KAT2261BxmjZ0o-16" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" value="Name | Amount | Time" vertex="1">
+          <mxGeometry height="20" width="130" x="480" y="120" as="geometry" />
+        </mxCell>
+        <mxCell id="zFAYg4KAT2261BxmjZ0o-17" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" value="" vertex="1">
+          <mxGeometry height="20" width="130" x="480" y="140" as="geometry" />
+        </mxCell>
+        <mxCell id="zFAYg4KAT2261BxmjZ0o-20" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" value="" vertex="1">
+          <mxGeometry height="170" width="190" x="620" y="100" as="geometry" />
+        </mxCell>
+        <mxCell id="zFAYg4KAT2261BxmjZ0o-21" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" value="File Upload Name" vertex="1">
+          <mxGeometry height="20" width="100" x="630" y="110" as="geometry" />
+        </mxCell>
+        <mxCell id="zFAYg4KAT2261BxmjZ0o-22" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Scrollable list of transactions" vertex="1">
+          <mxGeometry height="80" width="170" x="630" y="140" as="geometry" />
+        </mxCell>
+        <mxCell id="zFAYg4KAT2261BxmjZ0o-23" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" value="Confirm" vertex="1">
+          <mxGeometry height="30" width="60" x="740" y="230" as="geometry" />
+        </mxCell>
+        <mxCell id="zFAYg4KAT2261BxmjZ0o-24" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" value="Reject" vertex="1">
+          <mxGeometry height="30" width="70" x="630" y="230" as="geometry" />
+        </mxCell>
+        <mxCell id="zFAYg4KAT2261BxmjZ0o-36" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
+          <mxGeometry height="210" width="350" x="80" y="340" as="geometry" />
+        </mxCell>
+        <mxCell id="zFAYg4KAT2261BxmjZ0o-37" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" value="Nav Bar" vertex="1">
+          <mxGeometry height="20" width="350" x="80" y="340" as="geometry" />
+        </mxCell>
+        <mxCell id="zFAYg4KAT2261BxmjZ0o-38" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="List of transactions (default this month)" vertex="1">
+          <mxGeometry height="150" width="330" x="90" y="390" as="geometry" />
+        </mxCell>
+        <mxCell id="zFAYg4KAT2261BxmjZ0o-39" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" value="List items" vertex="1">
+          <mxGeometry height="20" width="330" x="90" y="390" as="geometry" />
+        </mxCell>
+        <mxCell id="zFAYg4KAT2261BxmjZ0o-40" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" value="Name | Recipient | Amount | Date | Category" vertex="1">
+          <mxGeometry height="20" width="330" x="90" y="410" as="geometry" />
+        </mxCell>
+        <mxCell id="zFAYg4KAT2261BxmjZ0o-41" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" value="Start date" vertex="1">
+          <mxGeometry height="30" width="70" x="90" y="360" as="geometry" />
+        </mxCell>
+        <mxCell id="zFAYg4KAT2261BxmjZ0o-43" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" value="&lt;div&gt;End date&lt;/div&gt;" vertex="1">
+          <mxGeometry height="30" width="70" x="160" y="360" as="geometry" />
+        </mxCell>
+        <mxCell id="zFAYg4KAT2261BxmjZ0o-44" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" value="Filter / Sort options" vertex="1">
+          <mxGeometry height="30" width="140" x="230" y="360" as="geometry" />
+        </mxCell>
+        <mxCell id="zFAYg4KAT2261BxmjZ0o-47" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" value="Apply" vertex="1">
+          <mxGeometry height="30" width="50" x="370" y="360" as="geometry" />
+        </mxCell>
+        <mxCell id="zFAYg4KAT2261BxmjZ0o-48" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Transaction list view page" vertex="1">
+          <mxGeometry height="30" width="130" x="191" y="300" as="geometry" />
+        </mxCell>
+        <mxCell id="zFAYg4KAT2261BxmjZ0o-50" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
+          <mxGeometry height="210" width="350" x="80" y="600" as="geometry" />
+        </mxCell>
+        <mxCell id="zFAYg4KAT2261BxmjZ0o-51" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" value="Nav Bar" vertex="1">
+          <mxGeometry height="20" width="350" x="80" y="600" as="geometry" />
+        </mxCell>
+        <mxCell id="zFAYg4KAT2261BxmjZ0o-58" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" value="Add module" vertex="1">
+          <mxGeometry height="20" width="110" x="90" y="630" as="geometry" />
+        </mxCell>
+        <mxCell id="zFAYg4KAT2261BxmjZ0o-59" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Dashboard View" vertex="1">
+          <mxGeometry height="25" width="80" x="210" y="560" as="geometry" />
+        </mxCell>
+        <mxCell id="zFAYg4KAT2261BxmjZ0o-62" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="Module Column A" vertex="1">
+          <mxGeometry height="140" width="160" x="90" y="660" as="geometry" />
+        </mxCell>
+        <mxCell id="zFAYg4KAT2261BxmjZ0o-63" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="Module Column B" vertex="1">
+          <mxGeometry height="140" width="160" x="260" y="660" as="geometry" />
+        </mxCell>
+        <mxCell id="zFAYg4KAT2261BxmjZ0o-64" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" value="Add Column" vertex="1">
+          <mxGeometry height="20" width="90" x="210" y="630" as="geometry" />
+        </mxCell>
+        <mxCell id="zFAYg4KAT2261BxmjZ0o-65" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" value="Filter / Sort options" vertex="1">
+          <mxGeometry height="20" width="110" x="310" y="630" as="geometry" />
+        </mxCell>
+        <mxCell id="zFAYg4KAT2261BxmjZ0o-66" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Note : Buttons will pop up a modal" vertex="1">
+          <mxGeometry height="30" width="130" x="300" y="560" as="geometry" />
+        </mxCell>
+        <mxCell id="zFAYg4KAT2261BxmjZ0o-67" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
+          <mxGeometry height="210" width="350" x="460" y="600" as="geometry" />
+        </mxCell>
+        <mxCell id="zFAYg4KAT2261BxmjZ0o-68" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" value="Nav Bar" vertex="1">
+          <mxGeometry height="20" width="350" x="460" y="600" as="geometry" />
+        </mxCell>
+        <mxCell id="zFAYg4KAT2261BxmjZ0o-69" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" value="Add module" vertex="1">
+          <mxGeometry height="20" width="110" x="470" y="630" as="geometry" />
+        </mxCell>
+        <mxCell id="zFAYg4KAT2261BxmjZ0o-70" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="Module Column A" vertex="1">
+          <mxGeometry height="140" width="160" x="470" y="660" as="geometry" />
+        </mxCell>
+        <mxCell id="zFAYg4KAT2261BxmjZ0o-71" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="Module Column B" vertex="1">
+          <mxGeometry height="140" width="160" x="640" y="660" as="geometry" />
+        </mxCell>
+        <mxCell id="zFAYg4KAT2261BxmjZ0o-72" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" value="Add Column" vertex="1">
+          <mxGeometry height="20" width="90" x="590" y="630" as="geometry" />
+        </mxCell>
+        <mxCell id="zFAYg4KAT2261BxmjZ0o-73" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" value="Filter / Sort options" vertex="1">
+          <mxGeometry height="20" width="110" x="690" y="630" as="geometry" />
+        </mxCell>
+        <mxCell id="zFAYg4KAT2261BxmjZ0o-74" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" value="Selected module (e.g. bar chart)&amp;nbsp;" vertex="1">
+          <mxGeometry height="60" width="160" x="470" y="660" as="geometry" />
+        </mxCell>
+        <mxCell id="zFAYg4KAT2261BxmjZ0o-75" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" value="Filter options modal" vertex="1">
+          <mxGeometry height="90" width="160" x="640" y="650" as="geometry" />
+        </mxCell>
+        <mxCell id="zFAYg4KAT2261BxmjZ0o-76" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Dashboard View with the filter / sort options modal popped up" vertex="1">
+          <mxGeometry height="40" width="170" x="555" y="550" as="geometry" />
+        </mxCell>
+        <mxCell id="zFAYg4KAT2261BxmjZ0o-77" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
+          <mxGeometry height="210" width="350" x="81" y="890" as="geometry" />
+        </mxCell>
+        <mxCell id="zFAYg4KAT2261BxmjZ0o-78" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" value="Nav Bar" vertex="1">
+          <mxGeometry height="20" width="350" x="81" y="890" as="geometry" />
+        </mxCell>
+        <mxCell id="zFAYg4KAT2261BxmjZ0o-79" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" value="Add module" vertex="1">
+          <mxGeometry height="20" width="110" x="91" y="920" as="geometry" />
+        </mxCell>
+        <mxCell id="zFAYg4KAT2261BxmjZ0o-80" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="Module Column A" vertex="1">
+          <mxGeometry height="140" width="79" x="91" y="950" as="geometry" />
+        </mxCell>
+        <mxCell id="zFAYg4KAT2261BxmjZ0o-81" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="Module Column C" vertex="1">
+          <mxGeometry height="140" width="70" x="260" y="950" as="geometry" />
+        </mxCell>
+        <mxCell id="zFAYg4KAT2261BxmjZ0o-82" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" value="Add Column" vertex="1">
+          <mxGeometry height="20" width="90" x="211" y="920" as="geometry" />
+        </mxCell>
+        <mxCell id="zFAYg4KAT2261BxmjZ0o-83" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" value="Filter / Sort options" vertex="1">
+          <mxGeometry height="20" width="110" x="311" y="920" as="geometry" />
+        </mxCell>
+        <mxCell id="zFAYg4KAT2261BxmjZ0o-84" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="Module Column D" vertex="1">
+          <mxGeometry height="140" width="80" x="340" y="950" as="geometry" />
+        </mxCell>
+        <mxCell id="zFAYg4KAT2261BxmjZ0o-85" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="Module Column B" vertex="1">
+          <mxGeometry height="140" width="70" x="180" y="950" as="geometry" />
+        </mxCell>
+        <mxCell id="zFAYg4KAT2261BxmjZ0o-86" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Dashboard view with extra columns added" vertex="1">
+          <mxGeometry height="30" width="119" x="196.5" y="840" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
