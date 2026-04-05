@@ -1,0 +1,30 @@
+services:
+  frontend:
+    build: ./Frontend/react-ts
+    ports:
+      - "3000:80"
+    depends_on:
+      - backend
+
+  backend:
+    build: ./Backend/ASP.Net
+    ports:
+      - "8080:8080"
+    environment:
+      - ConnectionStrings__Default=Host=db;Port=5432;Database=spendingtracker;Username=postgres;Password=${POSTGRES_PASSWORD}
+    depends_on:
+      - db
+
+  db:
+    image: postgres:16-alpine
+    ports:
+      - "5433:5432"
+    environment:
+      - POSTGRES_DB=spendingtracker
+      - POSTGRES_USER=postgres
+      - POSTGRES_PASSWORD=${POSTGRES_PASSWORD}
+    volumes:
+      - postgres_data:/var/lib/postgresql/data
+
+volumes:
+  postgres_data:
